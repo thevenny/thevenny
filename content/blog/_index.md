@@ -1,8 +1,9 @@
 ---
-title: Blog
+title: Il mio piccolo mondo di cosine belle.
+layout: blog
 menu:
   main:
-    name: Blog
     weight: 3
-layout: blog
+draft: true
+
 ---
