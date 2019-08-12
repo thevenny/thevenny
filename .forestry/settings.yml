@@ -4,6 +4,26 @@ auto_deploy: false
 admin_path: static/admin
 webhook_url: https://api.stackbit.com/project/5d4dd85f8af2040012032b16/webhook/forestry
 sections:
+- type: directory
+  path: content/posts
+  label: Post
+  create: all
+  match: "**/*"
+  templates:
+  - post
+- type: directory
+  path: content
+  label: Page
+  create: all
+  match: "**/*"
+  exclude: "{posts/**,_index.md,blog/_index.md,portfolio/_index.md,contact.md}"
+  templates:
+  - page
+- type: document
+  path: data/author.json
+  label: Author
+  templates:
+  - author
 - type: document
   path: config.yaml
   label: Global Site Config
@@ -14,11 +34,6 @@ sections:
   label: Social Links
   templates:
   - social
-- type: document
-  path: data/author.json
-  label: Author
-  templates:
-  - author
 - type: document
   path: content/_index.md
   label: Home
@@ -39,21 +54,6 @@ sections:
   label: Contact
   templates:
   - contact
-- type: directory
-  path: content
-  label: Page
-  create: all
-  match: "**/*"
-  exclude: "{posts/**,_index.md,blog/_index.md,portfolio/_index.md,contact.md}"
-  templates:
-  - page
-- type: directory
-  path: content/posts
-  label: Post
-  create: all
-  match: "**/*"
-  templates:
-  - post
 - type: directory
   path: content/projects
   label: Project
