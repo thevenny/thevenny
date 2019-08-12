@@ -1,7 +1,6 @@
 +++
 content_img_path = ""
 date = "2019-08-10T22:00:00+00:00"
-draft = true
 excerpt = ""
 layout = "post"
 subtitle = "Piccola ma con un grande cuore!"
