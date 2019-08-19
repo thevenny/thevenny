@@ -1,6 +1,6 @@
 ---
-title: Portfolio
-subtitle: This is an optional subtitle for the portfolio page.
+title: Daniele
+subtitle: Io, me, e le mie mille passioni
 layout_style: tiles
 layout: portfolio
 menu:
