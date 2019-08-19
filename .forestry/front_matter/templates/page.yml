@@ -24,5 +24,6 @@ fields:
   config:
     required: true
 pages:
+- content/custom-cables.md
 - content/style-guide.md
 - content/about.md
