@@ -1,16 +1,17 @@
 ---
-title: Project Title 1
-subtitle: Optional Project Subtitle
+title: Cavi custom su richiesta
+subtitle: Progettiamo insieme il tuo nuovo cavetto
 date: '2019-05-10'
 thumb_img_path: images/1_thumb.jpg
 content_img_path: images/1.jpg
 layout: project
+img_path: "/images/A0EF865E-DA87-4CE6-818A-985DBEF148FC.jpeg"
+
 ---
+Ho deciso di mettere a frutto la mia qualifica di tecnico elettronico e metterla a disposizione di tutti voi. 
 
-Vis accumsan feugiat adipiscing nisl amet adipiscing accumsan blandit accumsan sapien blandit ac amet faucibus aliquet placerat commodo. Interdum ante aliquet commodo accumsan vis phasellus adipiscing. Ornare a in lacinia. Vestibulum accumsan ac metus massa tempor. Accumsan in lacinia ornare massa amet. Ac interdum ac non praesent. Cubilia lacinia interdum massa faucibus blandit nullam. Accumsan phasellus nunc integer. Accumsan euismod nunc adipiscing lacinia erat ut sit. Arcu amet. Id massa aliquet arcu accumsan lorem amet accumsan.
+Progettiamo il cavetto per la vostra tastiera, per la ricarica del vostro smartphone, un pezzo a dir poco unico ed esclusivo, e soprattutto, scelto da voi!
 
->"A designer knows he has achieved perfection not when there is nothing left to add, but when there is nothing left to take away." -Antoine de Saint-Exupery
+Partiamo dal rivestimento, che è fatto su uno o due livelli. Potete scegliere se il classico rivestimento in corda o aggiungere un’altro rivestimento di protezione, abbinando colori e creando un effetto unico. Vogliamo il connettore aeronautico? Certo, ne abbiamo 3 modelli diversi da scegliere! Possiamo averlo normale o a spirale, e, ciliegina sulla torta possiamo scegliere anche il colore dei terminali. In tutto questo vi assisterò con delle anteprime per capire se il risultato è come quello che desiderate.
 
-Amet nibh adipiscing adipiscing. Commodo ante vis placerat interdum massa massa primis. Tempus condimentum tempus non ac varius cubilia adipiscing placerat lorem turpis at. Aliquet lorem porttitor interdum. Amet lacus. Aliquam lobortis faucibus blandit ac phasellus. In amet magna non interdum volutpat porttitor metus a ante ac neque. Nisi turpis. Commodo col. Interdum adipiscing mollis ut aliquam id ante adipiscing commodo integer arcu amet Ac interdum ac non praesent. Cubilia lacinia interdum massa faucibus blandit nullam. Accumsan phasellus nunc integer. Accumsan euismod nunc adipiscing lacinia erat ut sit. Arcu amet. Id massa aliquet arcu accumsan lorem amet accumsan commodo odio cubilia ac eu interdum placerat placerat arcu commodo lobortis adipiscing semper ornare pellentesque.
-
-Amet nibh adipiscing adipiscing. Commodo ante vis placerat interdum massa massa primis. Tempus condimentum tempus non ac varius cubilia adipiscing placerat lorem turpis at. Aliquet lorem porttitor interdum. Amet lacus. Aliquam lobortis faucibus blandit ac phasellus. In amet magna non interdum volutpat porttitor metus a ante ac neque. Nisi turpis. Commodo col. Interdum adipiscing mollis ut aliquam id ante adipiscing commodo integer arcu amet blandit adipiscing arcu ante.
+Non esitate a scrivermi per trovare insieme la soluzione che preferite!
