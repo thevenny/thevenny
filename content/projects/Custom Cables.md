@@ -1,6 +1,6 @@
 ---
 title: Cavi custom su richiesta
-subtitle: Progettiamo insieme il tuo nuovo cavetto
+subtitle: Progettiamo insieme il tuo nuovo cavetto.
 date: '2019-05-10'
 thumb_img_path: images/1_thumb.jpg
 content_img_path: images/1.jpg
